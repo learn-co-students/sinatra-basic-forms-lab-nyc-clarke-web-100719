@@ -13,7 +13,7 @@ available for adoption. Good thing you love puppies _and_ coding!
 2. Implement both POST and GET requests
 3. Connect a controller action with both a view and a model
 
-## Instructions
+##a Instructions
 
 The focus of this lab is to build a way for a user to go to a homepage,
 follow a link to a form where they can enter a puppy's information, and, upon
